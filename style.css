@@ -1,0 +1,14 @@
+.title {
+    color: red; 
+    background-color:aquamarine;
+    
+    text-align: center;
+    border: 10px black solid;
+    font-size: 20;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 100px;
+}
+#important {
+    color:brown
+}
